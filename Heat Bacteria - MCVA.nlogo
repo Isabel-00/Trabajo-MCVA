@@ -479,10 +479,9 @@ Este modelo se ha construido a partir de los siguientes documentos:
 
 Copyright 2023 Uri Wilensky.
 
-Modelo construido para un trabajo de clase por:
-
+Trabajo realizado por:
 -- Rafael Rodríguez García
--- Isabel María Altramirano Melero
+-- Isabel María Altamirano Melero
 
 ![CC BY-NC-SA 3.0](http://ccl.northwestern.edu/images/creativecommons/byncsa.png)
 
